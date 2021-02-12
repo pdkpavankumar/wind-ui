@@ -1,0 +1,35 @@
+{
+  "name": "@wind/wind-ui",
+  "version": "1.0.0",
+  "description": "wind ui is a css library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node src/index.js",
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdkpavankumar/wind-ui.git"
+  },
+  "keywords": [
+    "wind",
+    "wind-ui",
+    "wind-css",
+    "css",
+    "framework",
+    "css"
+  ],
+  "author": "P D K Pavan Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pdkpavankumar/wind-ui/issues"
+  },
+  "homepage": "https://github.com/pdkpavankumar/wind-ui#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "postcss": "^8.2.6"
+  }
+}
